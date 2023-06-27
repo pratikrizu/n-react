@@ -1,0 +1,23 @@
+{
+  "name": "n-react",
+  "version": "1.0.0",
+  "description": "This is basic react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratikrizu/n-react.git"
+  },
+  "keywords": [],
+  "author": "Pratik Ghosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratikrizu/n-react/issues"
+  },
+  "homepage": "https://github.com/pratikrizu/n-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
