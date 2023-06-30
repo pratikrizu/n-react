@@ -1,7 +1,17 @@
 # N React
+- This is a basic react project using react CDN
 
-# This is a basic react project using react CDN
-
-# Ep.1
-
-# Ep.2
+# Parcel
+- Dev Build
+- Local Sever
+- HMR = Hot Module Replacement 
+- Caching - Faster Build
+- Image Optimization
+- Minification 
+- Bundling
+- Compressing 
+- Consistent Hashing
+- Code Splitting
+- Differential Bundling - For this it will support different old browser
+- Diagnostics
+- 

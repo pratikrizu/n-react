@@ -1,8 +1,12 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const heading = React.createElement(
     'h1',
     { id: 'heading', className: 'red-text' },
     'This Heading coming from React'
 );
+
 
 const page = React.createElement('div', { className: 'container' }, [
     React.createElement(
